@@ -3,4 +3,4 @@ Authenticate using biometrics or PIN/Password if biometrics isn't available on d
 
 
 ### Preview : 
-![Preview](https://github.com/cemilakan/AndroidKotlinBiometricSample/blob/master/preview.gif)
+<img src="https://github.com/cemilakan/AndroidKotlinBiometricSample/blob/master/preview.gif" height="600">
